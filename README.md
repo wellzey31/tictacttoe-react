@@ -1,4 +1,4 @@
-##Tic tac toe react tutorial
+## Tic tac toe react tutorial
 
 The goal of this project was to begin learning react after completing tictactoe
 from scratch in CPP and following a react tutorial to help translate.
